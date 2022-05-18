@@ -1,7 +1,7 @@
 #Project: Parasite-Microbiota_Host interaction in a murine model of Trypanosoma cruzi infection (Tulahuen strain).
 #Data obtained by shotgun metagenomics (4Gb per sample).
 # BALBc and BL6 mice
-#For each model there are shots at 0-3-7-10-13-16 days 
+#For each model there are samples at 0-3-7-10-13-16 days 
 #Days 0 - 10 - 16 have a NI
 #NI = Not Infected
 #DPI: Days Post Infection
